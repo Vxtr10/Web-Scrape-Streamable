@@ -1,4 +1,4 @@
-# Automate downloading for all my streamable clips
+# Automate the download of all my Streamable clips.
 
 ## Problem:
 
